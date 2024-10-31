@@ -51,11 +51,16 @@
 
 <hr />
 
-<h2>📜 Certifications</h2>
+<h2>
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="32" height="32" style="vertical-align: middle;">
+    Certifications
+</h2>
 <ul>
-    <li>Certification 1 - Issued by <em>Organization</em>, 20XX</li>
-    <li>Certification 2 - Issued by <em>Organization</em>, 20XX</li>
-    <li>Certification 3 - Issued by <em>Organization</em>, 20XX</li>
+    <li>
+        <a href="https://courses.cognitiveclass.ai/certificates/8ab40c1c3b5240c29f8f73d9f539ae2f#" target="_blank">
+            SQL and Relational Databases 101
+        </a>
+    </li>
 </ul>
 
 <hr />
