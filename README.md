@@ -104,10 +104,8 @@
     </a>
 </div>
 
-<h2>📈 GitHub Stats</h2>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="Your Name's GitHub Stats" />
-</p>
+<br>
 
-<hr />
-<blockquote> "Every line of code is a chance to make something remarkable." 👨‍💻</blockquote>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=cgcola&theme=dark&show_icons=true" alt="cgcola's GitHub Stats" />
+</p>
