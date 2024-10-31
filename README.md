@@ -65,14 +65,31 @@
 
 <hr />
 
-<h2>🛠️ Skillsets</h2>
+<h2>
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="🛠️" width="32" height="32">
+    Skillsets
+</h2>
 <ul>
-    <li>Python</li>
-    <li>JavaScript</li>
-    <li>Java</li>
-    <li>Git</li>
-    <li>Docker</li>
+    <li>
+        <strong>Programming:</strong>
+        <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_logo_and_wordmark.svg" alt="Java" width="32" height="32">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Html5_logo_and_wordmark.svg" alt="HTML" width="32" height="32">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo_and_wordmark.svg" alt="CSS" width="32" height="32">
+    </li>
+    <li>
+        <strong>Graphic Designing:</strong>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Canva_Logo.svg" alt="Canva" width="32" height="32">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Adobe_Photoshop_Logo.svg" alt="Adobe Photoshop" width="32" height="32">
+    </li>
+    <li>
+        <strong>Video Editing:</strong>
+        <img src="https://upload.wikimedia.org/wikipedia/en/6/60/Wondershare_Filmora_logo.png" alt="Wondershare Filmora" width="32" height="32">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Canva_Logo.svg" alt="Canva" width="32" height="32">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/CapCut_logo.png" alt="CapCut" width="32" height="32">
+    </li>
 </ul>
+
+
 
 <hr />
 
