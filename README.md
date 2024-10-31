@@ -10,7 +10,7 @@
 <hr />
 
 <h2>
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f600/512.gif" alt="😀" width="32" height="32">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f600/512.gif" alt="😀" width="25" height="25">
     About Me
 </h2>
 <p>
@@ -20,7 +20,7 @@
 <hr />
 
 <h2>
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="32" height="32">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="25" height="25">
     Education
 </h2>
 
@@ -52,7 +52,7 @@
 <hr />
 
 <h2>
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="32" height="32" style="vertical-align: middle;">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="25" height="25" style="vertical-align: middle;">
     Certifications
 </h2>
 <ul>
@@ -66,32 +66,43 @@
 <hr />
 
 <h2>
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="🛠️" width="32" height="32">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="🛠️" width="25" height="25">
     Skillsets
 </h2>
 <ul>
     <li>
-        <strong>Programming:</strong>
-        <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_logo_and_wordmark.svg" alt="Java" width="32" height="32">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Html5_logo_and_wordmark.svg" alt="HTML" width="32" height="32">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo_and_wordmark.svg" alt="CSS" width="32" height="32">
+        <strong>Programming:</strong> Java, HTML, CSS
     </li>
     <li>
-        <strong>Graphic Designing:</strong>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Canva_Logo.svg" alt="Canva" width="32" height="32">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Adobe_Photoshop_Logo.svg" alt="Adobe Photoshop" width="32" height="32">
+        <strong>Graphic Designing:</strong> Canva, Adobe Photoshop
     </li>
     <li>
-        <strong>Video Editing:</strong>
-        <img src="https://upload.wikimedia.org/wikipedia/en/6/60/Wondershare_Filmora_logo.png" alt="Wondershare Filmora" width="32" height="32">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Canva_Logo.svg" alt="Canva" width="32" height="32">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/CapCut_logo.png" alt="CapCut" width="32" height="32">
+        <strong>Video Editing:</strong> Wondershare Filmora, Canva, CapCut
+    </li>
+    <li>
+        <strong>Photography:</strong> Mobile, Digital
     </li>
 </ul>
 
-
-
 <hr />
+<h2>
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f514/512.gif" alt="🔔" width="25" height="25">
+    Connect with Me!
+</h2>
+<div align="center">
+    <a href="https://www.linkedin.com/in/carl-geneson-ola-70aa10302" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="40" height="40">
+    </a>
+    <a href="https://www.instagram.com/ctrl_shift_go/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40">
+    </a>
+    <a href="https://www.facebook.com/carl.ola.182/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="40" height="40">
+    </a>
+    <a href="mailto:ocarlgeneson@gmail.com">
+        <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="Gmail" width="45" height="40">
+    </a>
+</div>
 
 <h2>📈 GitHub Stats</h2>
 <p align="center">
@@ -99,12 +110,4 @@
 </p>
 
 <hr />
-
-<h2>📫 Connect with Me!</h2>
-<p>
-    <a href="https://www.linkedin.com/in/yourname">LinkedIn</a> |
-    <a href="https://twitter.com/yourname">Twitter</a> |
-    <a href="https://yourportfolio.com">Portfolio</a>
-</p>
-
 <blockquote> "Every line of code is a chance to make something remarkable." 👨‍💻</blockquote>
