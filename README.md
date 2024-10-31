@@ -1,5 +1,5 @@
 <h1>
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋🏻" width="32" height="32">
     Hello, I'm Carl Geneson C. Ola!
 </h1>
 
@@ -14,7 +14,7 @@
     About Me
 </h2>
 <p>
-    I'm a Bachelor of Science in Computer Science student, with ambitions to build a career in UI/UX design or as a Cloud Engineer. While I may still be developing my technical skills and knowledge in coding, I see myself as a work in progress, committed to giving my best in everything I do. Driven by curiosity and a desire for growth, I'm always eager to learn what’s necessary to build a strong foundation for a successful future.
+    I'm a Bachelor of Science in Computer Science student with ambitions to build a career in UI/UX design or as a Cloud Engineer. While I may still be developing my technical skills and knowledge in coding, I see myself as a work in progress, committed to giving my best in everything I do. Driven by curiosity and a desire for growth, I'm always eager to learn what’s necessary to build a strong foundation for a successful future.
 </p>
 
 <hr />
@@ -23,7 +23,6 @@
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="25" height="25">
     Education
 </h2>
-
 <table>
     <thead>
         <tr>
@@ -40,7 +39,7 @@
             <td>Bachelor of Science in Computer Science</td>
             <td>2023 - Present</td>
         </tr>
-      <tr>
+        <tr>
             <td>Senior High School</td>
             <td>New Era University - Integrated School</td>
             <td>Science, Technology, Engineering, and Mathematics (STEM) Strand</td>
@@ -52,7 +51,7 @@
 <hr />
 
 <h2>
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="25" height="25" style="vertical-align: middle;">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="25" height="25">
     Certifications
 </h2>
 <ul>
@@ -66,25 +65,18 @@
 <hr />
 
 <h2>
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="🛠️" width="25" height="25">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙️" width="25" height="25">
     Skillsets
 </h2>
 <ul>
-    <li>
-        <strong>Programming:</strong> Java, HTML, CSS
-    </li>
-    <li>
-        <strong>Graphic Designing:</strong> Canva, Adobe Photoshop
-    </li>
-    <li>
-        <strong>Video Editing:</strong> Wondershare Filmora, Canva, CapCut
-    </li>
-    <li>
-        <strong>Photography:</strong> Mobile, Digital
-    </li>
+    <li><strong>Programming:</strong> Java, HTML, CSS</li>
+    <li><strong>Graphic Designing:</strong> Canva, Adobe Photoshop</li>
+    <li><strong>Video Editing:</strong> Wondershare Filmora, Canva, CapCut</li>
+    <li><strong>Photography:</strong> Mobile, Digital</li>
 </ul>
 
 <hr />
+
 <h2>
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f514/512.gif" alt="🔔" width="25" height="25">
     Connect with Me!
