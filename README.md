@@ -55,11 +55,20 @@
     Certifications
 </h2>
 <ul>
-    <li>
-        <a href="https://courses.cognitiveclass.ai/certificates/8ab40c1c3b5240c29f8f73d9f539ae2f#" target="_blank">
-            SQL and Relational Databases 101
-        </a>
-    </li>
+    <table align="center">
+    <tr>
+        <th>Certifications</th>
+        <th>Date Acquired</th>
+    </tr>
+    <tr>
+        <td><a href="https://courses.cognitiveclass.ai/certificates/8ab40c1c3b5240c29f8f73d9f539ae2f#" target="_blank">SQL and Relational Databases 101</a></td>
+        <td>31 October 2024</td>
+    </tr>
+    <tr>
+        <td><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=1ABBB9BD697ACE9E3F2EAC09D9C47252CBBA92CCC69DCD53BEEF00668F1ABCC7" target="_blank">Oracle Cloud Infrastructure 2024 Certified Foundations Associate</a></td>
+        <td>30 November 2024</td>
+    </tr>
+    </table>
 </ul>
 
 <hr />
