@@ -68,6 +68,10 @@
         <td><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=1ABBB9BD697ACE9E3F2EAC09D9C47252CBBA92CCC69DCD53BEEF00668F1ABCC7" target="_blank">Oracle Cloud Infrastructure 2024 Certified Foundations Associate</a></td>
         <td>30 November 2024</td>
     </tr>
+        <tr>
+        <td><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=1ABBB9BD697ACE9E3F2EAC09D9C472525553186810C2FBCCBBCFF6183DA8CAEE" target="_blank">Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate</a></td>
+        <td>08 December 2024</td>
+    </tr>
     </table>
 </ul>
 
