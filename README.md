@@ -106,6 +106,21 @@
 <hr />
 
 <h2>
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙️" width="25" height="25">
+    Skillsets
+</h2>
+
+<ul>
+    <li><strong>Programming:</strong> Java, HTML, CSS, Python</li>
+    <li><strong>Web Designing:</strong> Figma</li>
+    <li><strong>Graphic Designing:</strong> Canva, Adobe Photoshop</li>
+    <li><strong>Video Editing:</strong> Wondershare Filmora, Canva, CapCut</li>
+    <li><strong>Photography:</strong> Mobile, Digital</li>
+</ul>
+
+<hr />
+
+<h2>
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f514/512.gif" alt="🔔" width="25" height="25">
     Connect with Me!
 </h2>
