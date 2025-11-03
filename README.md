@@ -97,7 +97,7 @@
     <tbody>
         <tr>
             <td>05 October 2025</td>
-            <td><a href="YOUR_CERTIFICATE_LINK_HERE" target="_blank">The Future of Ethical Hacking, AI, Cloud, and IoT Security</a></td>
+            <td><a href="https://raw.githubusercontent.com/cgcola/cgcola/refs/heads/main/Certificate%20(50)_page-0001.jpg" target="_blank">The Future of Ethical Hacking, AI, Cloud, and IoT Security</a></td>
             <td>Computer Programming Services</td>
         </tr>
     </tbody>
