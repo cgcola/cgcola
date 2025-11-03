@@ -82,9 +82,32 @@
 <hr />
 
 <h2>
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙️" width="25" height="25">
-    Skillsets
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="25" height="25">
+    Certifications
 </h2>
+
+<hr />
+
+<h2>
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.gif" alt="✏️" width="25" height="25">
+    Seminars Attended
+</h2>
+
+<table align="center">
+    <thead>
+        <tr>
+            <th>Date</th>
+            <th>Name of Seminar</th>
+            <th>Seminar Host</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>15 March 2024</td>
+            <td><a href="YOUR_CERTIFICATE_LINK_HERE" target="_blank">Introduction to UI/UX Design</a></td>
+            <td>New Era University - College of Computer Studies</td>
+        </tr>
+
 <ul>
     <li><strong>Programming:</strong> Java, HTML, CSS</li>
     <li><strong>Graphic Designing:</strong> Canva, Adobe Photoshop</li>
