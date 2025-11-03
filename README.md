@@ -99,7 +99,7 @@
         <tr>
             <td>05 October 2025</td>
             <td><a href="https://raw.githubusercontent.com/cgcola/cgcola/refs/heads/main/Certificate%20(50)_page-0001.jpg" target="_blank">The Future of Ethical Hacking, AI, Cloud, and IoT Security</a></td>
-            <td aling="center">Google Meet</td>
+            <td align="center">Google Meet</td>
             <td>Computer Programming Services</td>
         </tr>
     </tbody>
