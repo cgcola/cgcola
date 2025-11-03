@@ -81,11 +81,6 @@
 
 <hr />
 
-<h2>
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="25" height="25">
-    Certifications
-</h2>
-
 <hr />
 
 <h2>
