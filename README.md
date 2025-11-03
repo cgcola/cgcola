@@ -56,30 +56,28 @@
 </h2>
 <ul>
     <table align="center">
-    <tr>
-        <th>Certifications</th>
-        <th>Date Acquired</th>
-    </tr>
-    <tr>
-        <td><a href="https://courses.cognitiveclass.ai/certificates/8ab40c1c3b5240c29f8f73d9f539ae2f#" target="_blank">SQL and Relational Databases 101</a></td>
-        <td>31 October 2024</td>
-    </tr>
-    <tr>
-        <td><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=1ABBB9BD697ACE9E3F2EAC09D9C47252CBBA92CCC69DCD53BEEF00668F1ABCC7" target="_blank">Oracle Cloud Infrastructure 2024 Certified Foundations Associate</a></td>
-        <td>30 November 2024</td>
-    </tr>
         <tr>
-        <td><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=1ABBB9BD697ACE9E3F2EAC09D9C472525553186810C2FBCCBBCFF6183DA8CAEE" target="_blank">Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate</a></td>
-        <td>08 December 2024</td>
-    </tr>
+            <th>Certifications</th>
+            <th>Date Acquired</th>
+        </tr>
         <tr>
-        <td><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=46523459574AFF1790F8BF5AC94B8F28CBCFD4C3A59B47B4A023D642C01EB5A4" target="_blank">Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate</a></td>
-        <td>14 December 2024</td>
-    </tr>
+            <td><a href="https://courses.cognitiveclass.ai/certificates/8ab40c1c3b5240c29f8f73d9f539ae2f#" target="_blank">SQL and Relational Databases 101</a></td>
+            <td>31 October 2024</td>
+        </tr>
+        <tr>
+            <td><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=1ABBB9BD697ACE9E3F2EAC09D9C47252CBBA92CCC69DCD53BEEF00668F1ABCC7" target="_blank">Oracle Cloud Infrastructure 2024 Certified Foundations Associate</a></td>
+            <td>30 November 2024</td>
+        </tr>
+        <tr>
+            <td><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=1ABBB9BD697ACE9E3F2EAC09D9C472525553186810C2FBCCBBCFF6183DA8CAEE" target="_blank">Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate</a></td>
+            <td>08 December 2024</td>
+        </tr>
+        <tr>
+            <td><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=46523459574AFF1790F8BF5AC94B8F28CBCFD4C3A59B47B4A023D642C01EB5A4" target="_blank">Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate</a></td>
+            <td>14 December 2024</td>
+        </tr>
     </table>
 </ul>
-
-<hr />
 
 <hr />
 
@@ -98,17 +96,12 @@
     </thead>
     <tbody>
         <tr>
-            <td>15 March 2024</td>
-            <td><a href="YOUR_CERTIFICATE_LINK_HERE" target="_blank">Introduction to UI/UX Design</a></td>
-            <td>New Era University - College of Computer Studies</td>
+            <td>05 October 2025</td>
+            <td><a href="YOUR_CERTIFICATE_LINK_HERE" target="_blank">The Future of Ethical Hacking, AI, Cloud, and IoT Security</a></td>
+            <td>Computer Programming Services</td>
         </tr>
-
-<ul>
-    <li><strong>Programming:</strong> Java, HTML, CSS</li>
-    <li><strong>Graphic Designing:</strong> Canva, Adobe Photoshop</li>
-    <li><strong>Video Editing:</strong> Wondershare Filmora, Canva, CapCut</li>
-    <li><strong>Photography:</strong> Mobile, Digital</li>
-</ul>
+    </tbody>
+</table>
 
 <hr />
 
